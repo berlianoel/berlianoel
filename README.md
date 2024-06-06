@@ -1,18 +1,35 @@
-# 💫 About Me:
-Soon
+<img align="right" alt="Freepik - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
+<h1>
+    <a href="https://elidianaandrade.github.io/">
+     <img align="center" alt="Logo Berlianoel" width="36px" src="https://berliano.vercel.app/images/profile.jpg"></a>
+    <span>Berliano</span>
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/endharge) 
+<p align="justify">Tech User And  Game Player. My first "Hello World" was when I had contact with HTML, CSS and a little bit of JavaScript and MySQL. 
+<br>
+ arts and technology enthusiasm, some of my hobbies are games, watching, reading <a href="https://www.instagram.com/endharge/">(@endharge)</a>.</p>
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://berliano.vercel.app/)
+[![GitHub Page](https://img.shields.io/badge/berlianoel-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=berlianoel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=berlianoel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianoel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Connect with me
 
----
-[![](https://visitcount.itsvg.in/api?id=berlianoel&icon=10&color=8)](https://visitcount.itsvg.in)
+[![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=spotify&logoColor=FF00F6&color:FFF)](https://spoti.fi/3yMTZAS)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/endharge/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@endnergy/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=berlianoel&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=gotham)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=berlianoel&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/berlianoel/github-readme-stats)-->
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+ 
+  <div align="right"> by <a href="https://github.com/berlianoel">EA</a>.</div>
+
+</details>
