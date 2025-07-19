@@ -22,13 +22,12 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=berlianoel&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=848482&text_color=FFF&border_radius=3&border_color=8c92ac&icon_color=848482&theme=gotham)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=berlianoel&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=848482&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=8c92ac&count_private=true)](https://github.com/berlianoel/github-readme-stats)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianoel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <details align="left">
   <summary></summary> 
  
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
+- by <a href="berlin">Berlin</a><br>
  
   <div align="right"> by <a href="https://github.com/berlianoel">EA</a>.</div>
 
